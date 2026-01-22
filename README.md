@@ -27,7 +27,7 @@ Pair Plots: Using sns.pairplot() to show all pairwise relationships in a dataset
 Clone this repository:
 
 Bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/yourusername/Hugging-face.git
 Navigate to the project directory and open the Jupyter Notebook:
 
 Bash
